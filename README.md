@@ -1,5 +1,6 @@
 # SHGNN
 The source code and dataset of the paper: [SHGNN: Structure-Aware Heterogeneous Graph Neural Network](https://arxiv.org/abs/2112.06244).
+![image](https://user-images.githubusercontent.com/25242325/145964701-e52f7934-06b9-423a-b9af-e114693015e4.png)
 
 ## Requirements
 The framework is implemented using python3 with dependencies specified in [requirements.txt](https://github.com/Wentao-Xu/SHGNN/blob/main/requirements.txt).
